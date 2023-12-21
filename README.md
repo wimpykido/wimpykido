@@ -1,10 +1,12 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Eliso!;" />
+</h1>
 
 <div align="center">
  
  🔭 I’m currently working on **a game WORDLE**
  
- 🌱 I’m currently learning **flutter, firebase**
+ 🌱 I’m currently learning **flutter, firebase, nextjs**
 
 ⚡ Fun fact **Isaac Newton invented the cat door**
 
@@ -23,7 +25,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git" />
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,java,nextjs" /><br>
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,dart" /><br>
 </div>
 
 <br/>
