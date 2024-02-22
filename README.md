@@ -6,7 +6,7 @@
  
  🔭 I’m currently working on **a CVMaker, ChatterVerse**
  
- 🌱 I’m currently learning **flutter, firebase, nextjs**
+ 🌱 I’m currently learning **flutter, nextjs**
 
 ⚡ Fun fact **Isaac Newton invented the cat door**
 
@@ -24,7 +24,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,mui,html,css,vscode,github,tailwind,git,firebase" />
     <img src="https://skillicons.dev/icons?i=javascript,typescript,cpp,dart" /><br>
 </div>
 
