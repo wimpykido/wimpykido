@@ -4,7 +4,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on **a game WORDLE**
+ 🔭 I’m currently working on **a CVMaker**
  
  🌱 I’m currently learning **flutter, firebase, nextjs**
 
