@@ -3,23 +3,25 @@
 </h1>
 
 <div align="center">
- 
- 🔭 I’m currently working on **a CVMaker, ChatterVerse**
- 
- 🌱 I’m currently learning **flutter, nextjs**
-
+🎓 I am 19 years old, studying computer science
+🔭 I’m currently working on **a CVMaker, ChatterVerse**
+🌱 I’m currently learning **flutter, nextjs**
 ⚡ Fun fact **Isaac Newton invented the cat door**
+</div>
 
- </div>
-
- <div align="center"> 
+ <div align="left"> 
   <a href="https://www.linkedin.com/in/eliso-saladze-45892622a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-<!--   <a href="https://salesp07.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" />
-  </a> -->
 </div>
+
+<div align="center">
+  <a href="https://open.spotify.com/user/L">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=L&count=2&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
@@ -30,3 +32,5 @@
 
 <br/>
 <hr/>
+
+
