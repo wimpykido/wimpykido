@@ -4,8 +4,11 @@
 
 <div align="center">
 🎓 I am 19 years old, studying computer science
+    
 🔭 I’m currently working on **a CVMaker, ChatterVerse**
+
 🌱 I’m currently learning **flutter, nextjs**
+
 ⚡ Fun fact **Isaac Newton invented the cat door**
 </div>
 
