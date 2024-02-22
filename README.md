@@ -9,12 +9,11 @@
 ⚡ Fun fact **Isaac Newton invented the cat door**
 </div>
 
- <div align="left"> 
+ <div align="center"> 
   <a href="https://www.linkedin.com/in/eliso-saladze-45892622a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
 </div>
-###
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
