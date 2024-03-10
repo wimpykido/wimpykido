@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Eliso and I'm a 19, from Georgia</p>
+<p align="left">My name is Eliso and I'm a developer, from Georgia</p>
 
 ###
 
